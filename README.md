@@ -9,10 +9,8 @@ I am a young Haitian lad that wants to learn how to code ( I want to use Git lik
 
 - 🔭 I'm currently learning how to code and how to use Git cause it seems very appealing.
 - 📝 I write poetry and make music sometimes.
-- 🌐 
-- ✍️ 
 
-## Tech Stack
+
 
 
 ## 🌱 Currently Exploring
@@ -20,26 +18,18 @@ I am a young Haitian lad that wants to learn how to code ( I want to use Git lik
   - Learning how to code , Git and Odoo.
   - A stable life.
   - Trying to heal from childhood trauma.
-  - 
-  - 
-  - 
-
- ## 🏆 Achievements
-
-- 
+ 
+\
 
 ## 📬 Get in Touch
 
 - Contact my email: assistance4life@proton.me
-- 
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+
 
 
 
 <!--
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on nothing yet ...
 - 🌱 I’m currently learning cybersecurity , Git and coding <em>in general<\em> ...
