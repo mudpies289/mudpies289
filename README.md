@@ -2,7 +2,7 @@
 
 I am a young Haitian lad that wants to learn how to code ( I want to use Git like how the other wonderful people do here). I'm always trying to gain knowledge in anything new so I can help others and myself. 
 
-<div img: src=https://tenor.com/view/keai-cute-gif-13201974045211134059>
+<div img=(https://tenor.com/view/keai-cute-gif-13201974045211134059)
 
 
 ## 🚀 About Me
