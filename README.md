@@ -2,7 +2,7 @@
 
 I am a young Haitian lad that wants to learn how to code ( I want to use Git like how the other wonderful people do here). I'm always trying to gain knowledge in anything new sso i can help others and myself. 
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<mudpies289>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
