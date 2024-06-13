@@ -13,7 +13,7 @@ I am a young Haitian lad that wants to learn how to code ( I want to use Git lik
 - ✍️ 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
 ## 🌱 Currently Exploring
 
