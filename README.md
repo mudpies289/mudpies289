@@ -1,12 +1,50 @@
-- 👋 Hi, I’m @mudpies289 aka Jean-Alexandre
-- 👀 I’m interested in coding , music and cybersecurity...
-- 🌱 I’m currently learning how to code ...
-- 💞️ I’m looking to collaborate on anything . I just wanna help with anything ...
-- 📫 How to reach me via email : assistance4life@proton.me ...
-- 😄 Pronouns: he/him ...
-- ⚡ Fun fact: I'm an INFJ 6w5 ...
+# Hi, I'm Lex aka Jean-Alexandre! 👋
 
-<!---
-mudpies289/mudpies289 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a young Haitian lad that wants to learn how to code ( I want to use Git like how the other wonderful people do here). I'm always trying to gain knowledge in anything new sso i can help others and myself. 
+
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## 🚀 About Me
+
+- 🔭 I'm currently learning how to code and how to use Git cause it seems very appealing.
+- 📝 I write poetry and make music sometimes.
+- 🌐 
+- ✍️ 
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+
+  - Learning how to code , Git and Odoo.
+  - A stable life.
+  - Trying to heal from childhood trauma.
+  - 
+  - 
+  - 
+
+ ## 🏆 Achievements
+
+- 
+
+## 📬 Get in Touch
+
+- Contact my email: assistance4life@proton.me
+- 
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+
+
+
+<!--
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on nothing yet ...
+- 🌱 I’m currently learning cybersecurity , Git and coding <em>in general<\em> ...
+- 👯 I’m looking to collaborate on anything ...
+- 🤔 I’m looking for help with anything tbh ...
+- 💬 Ask me about anything you'd like to ask . ...
+- 📫 How to reach me: assistance4life@proton.me ...
+- 😄 Pronouns: he/him...
+- ⚡ Fun fact: I'm an INFJ 6w5 ...
